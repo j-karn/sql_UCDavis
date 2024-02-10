@@ -1,3 +1,4 @@
-# sql_DavisDS
+# sql_UCDavis
 
-Test test this is a placeholder
+The SQL for Data Science course covers database management and data manipulation, from SQL syntax and relational database structures to techniques such as subqueries and JOIN operations.
+
